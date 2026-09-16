@@ -1,5 +1,5 @@
 # a-game-of-the-layer
-一个用C++做的增量游戏，使用了loong-big-integer中的lbi.h。 ~仅适用于Windows。~
+一个用C++做的增量游戏，使用了`loong-big-integer`中的`lbi.h`。 ~仅适用于Windows。~
 
 特别鸣谢：Kimi（更新日志，代码审查）
 

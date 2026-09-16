@@ -33,7 +33,7 @@ endgame：e1.79e308 * Layer 0？
 
 修复 `pointplus2` 在挑战/加成中被错误地基于已变换的 `pointplus` 再取幂。
 
-修复硬重置/不清空 `dice3c`。
+修复硬重置不清空 `dice3c`。
 
 提升 Layer 1 挑战 4 的衰减。
 
